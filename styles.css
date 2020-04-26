@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+  }
+  
+header{
+    background-color: green;
+    text-decoration-color: white;
+  }
+
+h1 {
+    color: white;
+    text-align: center;
+    }
+
+.fiches    
+    {
+    background-color: blueviolet;
+    color: white;
+  }
+
+.tableau    
+{
+background-color: rgb(43, 226, 98);
+color: white;
+}
+
+footer {
+    background-color: green;
+    color: honeydew;
+    text-align: center;
+    }
